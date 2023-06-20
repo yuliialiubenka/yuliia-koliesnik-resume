@@ -1,0 +1,20 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden">
+  <defs>
+    <!-- Linkedin icon -->
+    <symbol id="linkedin" viewBox="0 0 16 16">
+        <g clip-path="url(#a)" fill="#F4F4FD"><path d="M15.996 16H16V10.13c0-2.87-.618-5.082-3.974-5.082-1.614 0-2.696.886-3.138 1.725H8.84V5.317H5.66V16h3.314V10.71c0-1.393.264-2.74 1.988-2.74 1.7 0 1.725 1.59 1.725 2.83V16h3.31ZM.264 5.318h3.317V16H.264V5.318ZM1.921 0C.861 0 0 .86 0 1.92c0 1.06.86 1.94 1.921 1.94s1.922-.88 1.922-1.94C3.842.861 2.98 0 1.92 0Z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h16v16H0z"/></clipPath></defs>
+    </symbol>
+    <!-- User-name icon -->
+    <symbol id="user-name" viewBox="0 0 18 18">
+        <g clip-path="url(#a)"><path d="M9 9a3 3 0 1 0 0-6 3 3 0 1 0 0 6Zm0 1.5c-2.003 0-6 1.005-6 3v.75c0 .412.337.75.75.75h10.5c.412 0 .75-.338.75-.75v-.75c0-1.995-3.998-3-6-3Z"/></g><defs><clipPath id="a"><path d="M0 0h18v18H0z"/></clipPath></defs>
+    </symbol>
+    <!-- User-phone icon -->
+    <symbol id="user-phone" viewBox="0 0 18 24">
+        <g clip-path="url(#a)"><path d="m14.726 13.865-1.838-.21a1.441 1.441 0 0 0-1.187.413l-1.331 1.331A10.888 10.888 0 0 1 5.6 10.63l1.34-1.339a1.44 1.44 0 0 0 .412-1.186l-.21-1.824A1.448 1.448 0 0 0 5.702 5H4.45c-.818 0-1.498.68-1.447 1.498.383 6.18 5.326 11.116 11.499 11.5.818.05 1.498-.63 1.498-1.448v-1.252a1.434 1.434 0 0 0-1.274-1.433Z"/></g><defs><clipPath id="a"><path d="M0 0h18v24H0z"/></clipPath></defs>
+    </symbol>
+    <!-- User-email icon -->
+    <symbol id="user-email" viewBox="0 0 18 24">
+        <g clip-path="url(#a)"><path d="M15 6H3c-.825 0-1.492.675-1.492 1.5l-.008 9c0 .825.675 1.5 1.5 1.5h12c.825 0 1.5-.675 1.5-1.5v-9c0-.825-.675-1.5-1.5-1.5Zm-.3 3.188-5.302 3.314a.759.759 0 0 1-.796 0L3.3 9.188a.637.637 0 1 1 .675-1.08L9 11.25l5.025-3.143a.637.637 0 1 1 .675 1.08Z"/></g><defs><clipPath id="a"><path d="M0 0h18v24H0z"/></clipPath></defs>
+    </symbol>
+  </defs>
+</svg>
